@@ -1,0 +1,79 @@
+body {
+    background: black;
+    font-family: Courier New;
+}
+
+nav {
+    font-weight: bold;
+    color: #772525;
+    font-style: italic;
+}
+
+a:hover {
+    color: #545454;
+}
+
+#glasses {
+    height: 250px;
+}
+
+#wedding {
+    height: 400px;
+}
+
+#mylogo {
+    height: 250px;
+    margin-top: -20px;
+}
+
+h1,
+h2,
+#feedbackinfo,
+#contactinfo {
+    color: #61216B;
+}
+
+h3,
+p,
+ul,
+or,
+li,
+dl,
+dt,
+dt {
+    color: #772525;
+}
+
+footer {
+    color: #545454;
+    font-style: italic;
+    font-weight: bold;
+}
+
+hr {
+    width: 300px;
+    margin: 0;
+    margin-top: -15px;
+    text-align: left;
+}
+
+#index hr {
+    width: 100px;
+}
+
+#links hr {
+    width: 650px;
+}
+
+#resume hr {
+    width: 500px;
+}
+
+#family hr,
+#response hr {
+    width: 200px;
+}
+
+#feedback hr {
+    width: 175px;
+}
